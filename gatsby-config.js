@@ -7,6 +7,7 @@ module.exports = {
     title: `Text Me When Gus Tweets`,
     description: `Get a text message every time gus tweets.`,
     author: `@__trevbot__`,
+    image: `src/images/tomato.jpeg`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
