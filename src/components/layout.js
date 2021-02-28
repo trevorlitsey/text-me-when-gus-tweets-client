@@ -40,7 +40,7 @@ const Layout = ({ children }) => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://www.trevorlitsey.com"
+            href="https://www.litseyt.me"
           >
             trbr
           </a>
